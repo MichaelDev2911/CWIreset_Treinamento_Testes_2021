@@ -2,35 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e27d9c2d-4cfa-40b1-a2ed-2e29203819c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/elementMapper/CartPageElementMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/elementMapper/CategoryPageElementMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/elementMapper/HomePageElementMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/elementMapper/LoginPageElementMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/elementMapper/MyAccountPageElementMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/elementMapper/OrderPageElementMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/elementMapper/PaymentPageElementMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/elementMapper/ProductPageElementMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/elementMapper/RegisterPageElementMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/elementMapper/SearchPageElementMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/elementMapper/ShippingPageElementMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/BasePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/CartPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/CategoryPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/HomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/LoginPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/MyAccountPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/OrderPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/PaymentPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/ProductPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/RegisterPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/SearchPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/ShippingPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/BaseTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/SetupTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utils/Browser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utils/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/elementMapper/OrderPageElementMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/elementMapper/OrderPageElementMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/0ef339ff-74b4-401d-ab5e-6a1782e0d1f2-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/0f11279d-aa39-4a93-9518-9b397d1d2a42-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/1fe0d9d9-1cec-45b5-bc46-c1189c722fde-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/2092c5e3-f358-41d7-860d-47d43305c7ab-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/37c19e69-01f9-44e4-b72a-b315966aeb18-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/3df46df0-c65d-4664-95b5-2a4f045df607-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/945a6df4-5346-4c5b-852a-836a2b18fb41-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/9643caa4-1e86-4785-993e-a0c91ca0d83a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/a7031fd5-912d-4a70-b159-758ee25a7aa8-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/allure.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/allure-results/allure.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/d4a2caf0-d984-4ebd-8fba-3e1f331e955a-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/f29c6390-8b8c-4638-821f-4f1f6180ec1b-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/f9a2d886-7998-423a-9a48-82caf9de4094-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-tests.SetupTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-tests.SetupTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/tests.SetupTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/tests.SetupTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/treinamentoautomacao2021.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,11 +33,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/SetupTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="292" column="8" selection-start-line="292" selection-start-column="8" selection-end-line="292" selection-end-column="8" />
+            <state relative-caret-position="31">
+              <caret line="73" column="10" selection-start-line="73" selection-start-column="10" selection-end-line="76" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/elementMapper/CartPageElementMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,110 +55,55 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/MyAccountPage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/elementMapper/CategoryPageElementMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/elementMapper/HomePageElementMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="11" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/elementMapper/LoginPageElementMapper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
+              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/elementMapper/MyAccountPageElementMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
               <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#660#661#0" expanded="true" />
-                <element signature="e#696#697#0" expanded="true" />
-                <element signature="e#914#915#0" expanded="true" />
-                <element signature="e#960#961#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/PaymentPage.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/elementMapper/OrderPageElementMapper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
-              <caret line="35" column="53" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#856#857#0" expanded="true" />
-                <element signature="e#904#905#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/ProductPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="21" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/RegisterPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1298">
-              <caret line="98" column="1" selection-start-line="98" selection-start-column="1" selection-end-line="98" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#397#398#0" expanded="true" />
-                <element signature="e#430#431#0" expanded="true" />
-                <element signature="e#492#493#0" expanded="true" />
-                <element signature="e#546#547#0" expanded="true" />
-                <element signature="e#612#613#0" expanded="true" />
-                <element signature="e#666#667#0" expanded="true" />
-                <element signature="e#728#729#0" expanded="true" />
-                <element signature="e#769#770#0" expanded="true" />
-                <element signature="e#842#843#0" expanded="true" />
-                <element signature="e#874#875#0" expanded="true" />
-                <element signature="e#949#950#0" expanded="true" />
-                <element signature="e#979#980#0" expanded="true" />
-                <element signature="e#1053#1054#0" expanded="true" />
-                <element signature="e#1090#1091#0" expanded="true" />
-                <element signature="e#1166#1167#0" expanded="true" />
-                <element signature="e#1211#1212#0" expanded="true" />
-                <element signature="e#1296#1297#0" expanded="true" />
-                <element signature="e#1351#1352#0" expanded="true" />
-                <element signature="e#1428#1429#0" expanded="true" />
-                <element signature="e#1483#1484#0" expanded="true" />
-                <element signature="e#1547#1548#0" expanded="true" />
-                <element signature="e#1587#1588#0" expanded="true" />
-                <element signature="e#1650#1651#0" expanded="true" />
-                <element signature="e#1685#1686#0" expanded="true" />
-                <element signature="e#1757#1758#0" expanded="true" />
-                <element signature="e#1799#1800#0" expanded="true" />
-                <element signature="e#1868#1869#0" expanded="true" />
-                <element signature="e#1910#1911#0" expanded="true" />
-                <element signature="e#1983#1984#0" expanded="true" />
-                <element signature="e#2033#2034#0" expanded="true" />
-                <element signature="e#2114#2115#0" expanded="true" />
-                <element signature="e#2158#2159#0" expanded="true" />
-                <element signature="e#2241#2242#0" expanded="true" />
-                <element signature="e#2277#2278#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/SearchPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/utils/Browser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="29" column="80" selection-start-line="29" selection-start-column="80" selection-end-line="29" selection-end-column="80" />
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -225,7 +170,6 @@
         <option value="$PROJECT_DIR$/src/test/java/pageObjects/RegisterPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageObjects/MyAccountPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/elementMapper/MyAccountPageElementMapper.java" />
-        <option value="$PROJECT_DIR$/src/test/java/elementMapper/OrderPageElementMapper.java" />
         <option value="$PROJECT_DIR$/src/test/java/elementMapper/PaymentPageElementMapper.java" />
         <option value="$PROJECT_DIR$/src/test/java/elementMapper/ProductPageElementMapper.java" />
         <option value="$PROJECT_DIR$/src/test/java/elementMapper/RegisterPageElementMapper.java" />
@@ -242,6 +186,7 @@
         <option value="$PROJECT_DIR$/src/test/java/utils/Browser.java" />
         <option value="$PROJECT_DIR$/src/test/java/utils/Utils.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/SetupTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/elementMapper/OrderPageElementMapper.java" />
       </list>
     </option>
   </component>
@@ -252,7 +197,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="19" />
     <option name="y" value="12" />
     <option name="width" value="1326" />
@@ -266,7 +211,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -275,16 +219,43 @@
               <item name="treinamentoautomacao2021Michael" type="b2602c69:ProjectViewProjectNode" />
               <item name="treinamentoautomacao2021Michael" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="treinamentoautomacao2021Michael" type="b2602c69:ProjectViewProjectNode" />
+              <item name="treinamentoautomacao2021Michael" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="treinamentoautomacao2021Michael" type="b2602c69:ProjectViewProjectNode" />
+              <item name="treinamentoautomacao2021Michael" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="treinamentoautomacao2021Michael" type="b2602c69:ProjectViewProjectNode" />
+              <item name="treinamentoautomacao2021Michael" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="treinamentoautomacao2021Michael" type="b2602c69:ProjectViewProjectNode" />
+              <item name="treinamentoautomacao2021Michael" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="elementMapper" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1634256726244" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1634485343809" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -307,7 +278,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SetupTest.testPurchaseCompletedInEcommerce">
+  <component name="RunManager" selected="Maven.allure">
     <configuration name="SetupTest.testAddProductToCartPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="treinamentoautomacao2021" />
       <extension name="coverage">
@@ -483,6 +454,9 @@
       <workItem from="1634159888453" duration="19162000" />
       <workItem from="1634245602070" duration="10806000" />
       <workItem from="1634259352711" duration="34000" />
+      <workItem from="1634260178617" duration="781000" />
+      <workItem from="1634324619780" duration="891000" />
+      <workItem from="1634484907588" duration="524000" />
     </task>
     <servers />
   </component>
@@ -519,12 +493,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101851000" />
+    <option name="totallyTimeSpent" value="104047000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21801665" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22937168" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -560,13 +535,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-374">
-          <caret line="14" column="61" selection-end-line="91" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/OrderPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="339">
@@ -575,63 +543,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#689#690#0" expanded="true" />
             <element signature="e#738#739#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/elementMapper/CartPageElementMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/elementMapper/CategoryPageElementMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/elementMapper/HomePageElementMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="11" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/elementMapper/LoginPageElementMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/elementMapper/MyAccountPageElementMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/elementMapper/OrderPageElementMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -740,16 +651,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/SetupTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="292" column="8" selection-start-line="292" selection-start-column="8" selection-end-line="292" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/MyAccountPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -764,12 +665,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/SetupTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6116">
+          <caret line="292" column="8" selection-start-line="292" selection-start-column="8" selection-end-line="292" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pageObjects/PaymentPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="35" column="53" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#856#857#0" expanded="true" />
             <element signature="e#904#905#0" expanded="true" />
           </folding>
         </state>
@@ -870,6 +782,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="73" column="10" selection-start-line="73" selection-start-column="10" selection-end-line="76" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/elementMapper/CartPageElementMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/elementMapper/CategoryPageElementMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/elementMapper/HomePageElementMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="11" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/elementMapper/LoginPageElementMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/elementMapper/MyAccountPageElementMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/elementMapper/OrderPageElementMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

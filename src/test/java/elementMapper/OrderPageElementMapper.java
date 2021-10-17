@@ -13,12 +13,13 @@ public class OrderPageElementMapper {
 
     @FindBy(xpath = "//*[@id=\"center_column\"]/p[2]/a[1]/span")
     public WebElement button_exclusive_checkout;
-
+    //#center_column > p.cart_navigation.clearfix >
+    // a.button.btn.btn-default.standard-checkout.button-medium > span
     @FindBy(css = ".header_user_info a[title='View my customer account']")
     public WebElement account;
 
     @FindBy(xpath = "//*[@id=\"center_column\"]/form/p/button/span ")
     public WebElement button_address_checkout;
-
+     //#center_column > form > p > button > span
 
 }

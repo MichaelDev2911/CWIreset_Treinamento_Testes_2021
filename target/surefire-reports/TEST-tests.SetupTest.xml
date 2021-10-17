@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="tests.SetupTest" time="58.604" tests="6" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="tests.SetupTest" time="100.542" tests="8" errors="0" skipped="0" failures="0">
   <properties>
     <property name="idea.version" value="2018.3.6"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_291\jre\bin"/>
     <property name="java.vm.version" value="25.291-b10"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Public\Intellig projetos\treinamentoautomacao2021"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\micha\Desktop\treinamentoautomacao2021Michael"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\Public\Intellig projetos\treinamentoautomacao2021"/>
+    <property name="user.dir" value="C:\Users\micha\Desktop\treinamentoautomacao2021Michael"/>
     <property name="java.runtime.version" value="1.8.0_291-b10"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_291\jre\lib\endorsed"/>
@@ -29,7 +29,7 @@
     <property name="os.name" value="Windows 10"/>
     <property name="classworlds.conf" value="C:\Program Files\JetBrains\IntelliJ IDEA 2018.3.6\plugins\maven\lib\maven3\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_291\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\app\micha\product\18.0.0\dbhomeXE\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-11.0.11\bin;C:\apache-maven-3.8.1\bin;C:\xampp\mysql\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\micha\Desktop\drive chrome;C:\Users\micha\Desktop\driver firefox;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\micha\AppData\Local\Microsoft\WindowsApps;C:\Users\micha\AppData\Local\GitHubDesktop\bin;C:\Program Files\heroku\bin;C:\Users\micha\AppData\Roaming\npm;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_291\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\app\micha\product\18.0.0\dbhomeXE\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-11.0.11\bin;C:\apache-maven-3.8.1\bin;C:\xampp\mysql\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\micha\Desktop\drive chrome;C:\Users\micha\Desktop\driver firefox;C:\Program Files\dotnet\;C:\Users\micha\scoop\shims;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\micha\AppData\Local\Microsoft\WindowsApps;C:\Users\micha\AppData\Local\GitHubDesktop\bin;C:\Program Files\heroku\bin;C:\Users\micha\AppData\Roaming\npm;C:\Users\micha\.dotnet\tools;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -61,10 +61,12 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="testOpeningBrowserAndLoadingPage" classname="tests.SetupTest" time="8.533"/>
-  <testcase name="testLogin" classname="tests.SetupTest" time="9.917"/>
-  <testcase name="testAddProductToProductPage" classname="tests.SetupTest" time="10.498"/>
-  <testcase name="testAccessCategoryTShirts" classname="tests.SetupTest" time="7.985"/>
-  <testcase name="testAddProductToCartPage" classname="tests.SetupTest" time="13.863"/>
-  <testcase name="testSearch" classname="tests.SetupTest" time="7.559"/>
+  <testcase name="testOpeningBrowserAndLoadingPage" classname="tests.SetupTest" time="9.303"/>
+  <testcase name="testLogin" classname="tests.SetupTest" time="10.049"/>
+  <testcase name="testRegisterUserInEcommerce" classname="tests.SetupTest" time="13.498"/>
+  <testcase name="testAddProductToProductPage" classname="tests.SetupTest" time="12.468"/>
+  <testcase name="testAccessCategoryTShirts" classname="tests.SetupTest" time="7.755"/>
+  <testcase name="testAddProductToCartPage" classname="tests.SetupTest" time="12.632"/>
+  <testcase name="testPurchaseCompletedInEcommerce" classname="tests.SetupTest" time="26.465"/>
+  <testcase name="testSearch" classname="tests.SetupTest" time="8.129"/>
 </testsuite>
